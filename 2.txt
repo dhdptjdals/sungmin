@@ -1,0 +1,14 @@
+spring.io 사이트에서 프로젝트 탭 > 스프링 프레임 워크
+
+클래스에다가 언어테이션만 넣으면 
+
+
+라이브러리 추가 > 웹 xml 추가> 컨트롤러 생성 >
+
+WEB INF 밑에 jsp 파일을 만들어도 상관없음
+
+@RequestMapping(method = RequestMethod.POST)
+			public String submit(@ModelAttribute("command") NewArticleCommand command) {
+				articleService.writeArticle(command);
+
+NewArticleCommand 자바빈을 사용할떄 이름을 지정해주는것 
