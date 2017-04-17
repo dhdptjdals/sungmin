@@ -1,14 +1,3 @@
-spring.io »çÀÌÆ®¿¡¼­ ÇÁ·ÎÁ§Æ® ÅÇ > ½ºÇÁ¸µ ÇÁ·¹ÀÓ ¿öÅ©
+spring.io ì‚¬ì´íŠ¸ì—ì„œ í”„ë¡œì íŠ¸ íƒ­ > ìŠ¤í”„ë§ í”„ë ˆì„ ì›Œí¬
 
-Å¬·¡½º¿¡´Ù°¡ ¾ğ¾îÅ×ÀÌ¼Ç¸¸ ³ÖÀ¸¸é 
-
-
-¶óÀÌºê·¯¸® Ãß°¡ > À¥ xml Ãß°¡> ÄÁÆ®·Ñ·¯ »ı¼º >
-
-WEB INF ¹Ø¿¡ jsp ÆÄÀÏÀ» ¸¸µé¾îµµ »ó°ü¾øÀ½
-
-@RequestMapping(method = RequestMethod.POST)
-			public String submit(@ModelAttribute("command") NewArticleCommand command) {
-				articleService.writeArticle(command);
-
-NewArticleCommand ÀÚ¹ÙºóÀ» »ç¿ëÇÒ‹š ÀÌ¸§À» ÁöÁ¤ÇØÁÖ´Â°Í 
+í´ë˜ìŠ¤ì—ë‹¤ê°€ ì–¸ì–´í…Œì´ì…˜ë§Œ ë„£ìœ¼ë©´ 
