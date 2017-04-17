@@ -1,0 +1,19 @@
+diff a/2.txt b/2.txt	(rejected hunks)
+@@ -1,14 +0,3 @@
+-spring.io ����Ʈ���� ������Ʈ �� > ������ ������ ��ũ
++spring.io 사이트에서 프로젝트 탭 > 스프링 프레임 워크
+ 
+-Ŭ�������ٰ� ������̼Ǹ� ������ 
+-
+-
+-���̺귯�� �߰� > �� xml �߰�> ��Ʈ�ѷ� ���� >
+-
+-WEB INF �ؿ� jsp ������ ���� �������
+-
+-@RequestMapping(method = RequestMethod.POST)
+-			public String submit(@ModelAttribute("command") NewArticleCommand command) {
+-				articleService.writeArticle(command);
+-
+-NewArticleCommand �ڹٺ��� ����ҋ� �̸��� �������ִ°� 
+\ No newline at end of file
++클래스에다가 언어테이션만 넣으면 
